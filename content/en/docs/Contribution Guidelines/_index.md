@@ -12,4 +12,12 @@ More informatio nwill be here soon ...
 
 {{% /pageinfo %}}
 
-More informatio nwill be here soon ...
+The Web Site is hosted on Github and can be modified with pull requests.
+
+To edit the About page, use this link:
+
+* <https://github.com/sbi-fair/sbi-fair.github.io/blob/main/content/en/about/_index.html>
+
+To edit the Frontpage, use this link:
+
+* <https://github.com/sbi-fair/sbi-fair.github.io/blob/main/content/en/_index.html>
