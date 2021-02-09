@@ -2,7 +2,7 @@
 
 
 ```bash
-git clone --recurse-submodules --depth 1 https://github.com/my/example.git
+git clone --recurse-submodules --depth 1 git@github.com:sbi-fair/sbi-fair.github.io.git
 cd sbir-fair
 npm install
 hugo server
