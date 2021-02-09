@@ -8,7 +8,11 @@ description: >
 
 {{% pageinfo %}}
 
-More informatio nwill be here soon ...
+The Surrogate Benchmark Initiative (SBI) project will create a community 
+repository and FAIR data ecosystem for HPC application surrogate benchmarks, 
+including data, code, and all relevant collateral artifacts the science and 
+engineering community needs to use and reuse these data sets and surrogates.
+
 
 {{% /pageinfo %}}
 
