@@ -1,6 +1,6 @@
 
 ---
-title: "News About SBIR-FAIR"
+title: "News About SBI-FAIR"
 linkTitle: "News"
 weight: 20
 ---

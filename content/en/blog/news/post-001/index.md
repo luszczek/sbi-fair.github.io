@@ -3,7 +3,7 @@ date: 2021-02-09
 title: "Web Site"
 linkTitle: "Announcing Website"
 description: >
-  The SBIR FAIR Web Site has been created.
+  The SBI FAIR Web Site has been created.
 author: Gregor von Laszewski ([@laszewski](https://laszewski.github.io))
 resources:
 - src: "**.{png,jpg}"
@@ -12,7 +12,7 @@ resources:
     byline: "Photo: Gregor von Laszewski / CC-BY-CA"
 ---
 
-We are happy to announce the the SBIR Web Site and GitHub repositories have been created
+We are happy to announce the the SBI Web Site and GitHub repositories have been created
 
 {{< imgproc sbirfairweb Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
