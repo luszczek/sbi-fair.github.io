@@ -98,13 +98,14 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://https://sbi-fair.github.io/"
+url_latest_version = "https://sbi-fair.github.io/"
 
 # Repository configuration (URLs for in-page links to
 # opening issues and suggesting changes)
-github_repo = "https://github.com/sbi-fair/sbi-fair.github.io/issues"
+github_branch = "main"
+github_repo = "https://github.com/sbi-fair/sbi-fair.github.io"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-thub_project_repo = "https://github.com/sbi-fair/sbi-fair.github.io"
+gitthub_project_repo = "https://github.com/sbi-fair"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
