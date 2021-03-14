@@ -6,4 +6,4 @@ menu:
     weight: 25
 ---
 
-A list of surogates
+A list of surrogates
