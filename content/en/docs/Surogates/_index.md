@@ -1,6 +1,6 @@
 ---
-title: "Surogates"
-linkTitle: "Surogates"
+title: "Surrogates"
+linkTitle: "Surrogates"
 menu:
   main:
     weight: 25
