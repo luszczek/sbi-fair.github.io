@@ -13,7 +13,7 @@ resources:
 We are happy to announce the the SBI Web Site and GitHub repositories have been created
 
 {{< imgproc sbirfairweb Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
+Screen shot of the web Site.
 {{< /imgproc >}}
 
 
