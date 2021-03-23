@@ -50,3 +50,13 @@ To delete the container run:
 ```
 docker container rm [container_id]
 ```
+
+# Content modification
+
+The web page is a hugo Web page. All content is managed in github at
+
+* https://github.com/sbi-fair/sbi-fair.github.io/tree/main/content/en
+
+When you go to the documentaton, you even have the ability to edit pages or add new pages.
+
+In case of questions, please contact Gregor at laszewski@gmail.com
