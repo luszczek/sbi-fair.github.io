@@ -60,3 +60,6 @@ The web page is a hugo Web page. All content is managed in github at
 When you go to the documentaton, you even have the ability to edit pages or add new pages.
 
 In case of questions, please contact Gregor at laszewski@gmail.com
+
+After you have changed the page or content, it will take about 5 minutes for the changes to show up. 
+Makes ure to refersh the page or clean the cace of your browser to see the new content.
